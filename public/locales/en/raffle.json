@@ -1,0 +1,74 @@
+{
+  "Gold Rush Starts": "Gold Rush Starts",
+  "Gold Rush Ends": "Gold Rush Ends",
+
+  "Land Left": "Land Left",
+  "Apostle Left": "Apostle Left",
+
+  "Further Information": "Further Information",
+  "No history": "No history",
+
+  "Time": "Time",
+  "God": "God",
+  "Result": "Result",
+
+  "What is the Gold Rush": "What is the Gold Rush?",
+  "What is the Gold Rush Description": "In the 19th century, due to the discovery of a large amount of gold in California, many people flocked to it, which created legendary experiences. In the Evolution Land, there are also some pioneers who give up their lands on original homeland to EVE to exchange for the lands on the new world.Players can use the land of the old continent and a certain amount of RING as reserves to participate in the lottery, and the lucky players will get lands on the new continent.",
+
+  "How to participate the Gold Rush": "How to participate the Gold Rush?",
+  "How to participate the Gold Rush Description": "Within a certain period of time during the opening of the new world, players who own lands on the original world can participate in the Gold Rush event page through the main page -> Gold Rush.During the registration period, players can bind the land of the original world with any number of RING, submit to EVE to participate in the lottery of the new world. The more quantity of RING, the higher the probability of being drawn. Besides, the amount of land used for relocation and the number of RING can be adjusted before the registration is over.",
+
+  "What are the rules for lottery": "What are the rules for lottery?",
+  "What are the rules for lottery Description": "The land and RING provided by all participating players will be put into a unified lottery pool, and each land will be assigned a corresponding weight according to the quantity of RING provided. The block height will be used as a random seed for lottery.The land prepaid and the RING as a reserve will be taken back by the system if players was drawn, and those from the players who are not drawn will be returned.",
+
+  "What is the acquisition rules": "What is the acquisition rules?",
+  "What is the acquisition rules Description": "The lands on the new continent will be sorted from high to low according to the total amount of resources. Lucky lands on the original continent will be sorted from high to low according to the value of (total resource of land*0.6+reserved RING*0.4), and get correspondingly lands on the new world in order.The result will be announced after the lottery is over. Then lucky players have to give selected land from original contient to EVE on event page and claim new lands in game. If not drawn, players could claim their reserved RING.",
+
+  "More": "More",
+
+  "Gold_Rush_Hit": "Before the end of bidding period, you could edit lands, number of reserved funds, receive address, and need to pay gas fee. After confirmation, your reserved funds will be locked.",
+
+  "Activity Starts": "Activity\r\nStarts",
+  "Bidding Finished": "Bidding\r\nFinished",
+  "Result Published": "Result\r\nPublished",
+  "Event End": "Event\r\nEnd",
+
+  "Reserve": "Reserve",
+  "Receive": "Receive",
+  "Receiving address": "Receiving address",
+
+  "Application Submitted": "Application Submitted",
+  "Address": "Address",
+  "Plot": "Plot",
+  "Total Resources": "Total Resources",
+
+  "Gold Rush Heroes List": "Gold Rush Heroes List",
+  "Ranking": "Ranking",
+  "Original Plot": "Original Plot",
+  "New Plot": "New Plot",
+  "Player": "Player",
+
+  "Lands Preview": "Lands Preview",
+  "Choose my plot": "Choose my plot",
+  "Plot Number": "Plot number",
+  "Participate": "Participate",
+  "Add a bid": "Add a bid",
+  "Edit Bid Lot": "Edit Bid Lot",
+  "Add parcel": "Add parcel",
+  "Change parcel": "Change parcel",
+  "Confirm the bid": "Confirm the bid",
+  "Confirm the changes": "Confirm the changes",
+  "Cancel the bid": "Cancel the bid",
+  "Invalid address": "Invalid address",
+  "Invalid land": "Invalid land",
+  "Check the origin": "Check the origin",
+  "Check the new": "Check the new",
+
+  "Pending confirmation": "Pending confirmation",
+  "Lost": "Failed. claim {{reserve}} {{RING}}",
+  "Lost_And_Claimed": "Failed, has claimed {{reserve}} {{RING}}",
+  "Sent/Land Missing": "Sent/Land Missing",
+  "Send source plot": "Send source plot",
+
+  "Reserve_Too_Small": "Reserve is less than the minimum（1{{RING}}）"
+}

@@ -1,0 +1,74 @@
+{
+  "Gold Rush Starts": "淘金熱開始",
+  "Gold Rush Ends": "淘金熱結束",
+
+  "Land Left": "剩余地块",
+  "Apostle Left": "剩余使徒",
+
+  "Further Information": "更多信息",
+  "No history": "无抽奖历史",
+
+  "Time": "抽奖时间",
+  "God": "精灵",
+  "Result": "抽奖结果",
+
+  "What is the Gold Rush": "什麽是淘金熱？",
+  "What is the Gold Rush Description": "在19世紀，由於加利福尼亞發現了大量黃金，許多人紛湧而至，締造了無數傳奇的經歷。在進化星球裏，也有一些勇士將舊家園的土地交還給了EVE，以換取在新大陸上最早開放的土地。玩家可以通過淘金熱活動將舊大陸的土地和一定數量的RING作為準備金給系統，參與搖號，搖中的玩家將獲得一塊新大陸上的土地。",
+
+  "How to participate the Gold Rush": "如何參與淘金熱？",
+  "How to participate the Gold Rush Description": "在新大陸開放一定時間內，舊大陸上擁有土地的玩家可以通過官網->淘金熱進入淘金熱活動頁面參與。報名期間，玩家可以將舊大陸土地與任意數量的RING綁定，提交舊大陸的土地，以及任意數量的RING作為準備金，來參與新大陸的搖號，RING的數量越多，被抽中的概率越高，報名結束前可以調整用於遷移的土地以及RING的數量。",
+
+  "What are the rules for lottery": "搖號規則是什麽？",
+  "What are the rules for lottery Description": "所有參與的玩家提供的土地及RING會被放入統一的搖號池中，每塊土地依據所提供的RING的數量被賦予相應的權重（為該土地提供的RING/所有玩家提供的RING），後以指定時間的的塊高作為隨機種子進行搖號。搖中的玩家預付的土地及作為準備金的RING將會被系統收回，未搖中的玩家將會返還RING。",
+
+  "What is the acquisition rules": "土地獲取規則是什麽？",
+  "What is the acquisition rules Description": "新大陸的地塊將按照資源總量從高到低進行排序，舊大陸上搖中的玩家將以(地塊資源總量*0.6+投入RING*0.4)的數值從高到底進行排序，依次對應獲得新大陸上的地塊。獲取結果將在搖號結束後公布，抽中的玩家需要在活動頁交付舊大陸地塊，並到遊戲中領取新大陸地塊；未抽中的玩家則需要在活動頁中領回作為準備金的RING。",
+
+  "More": "查看更多",
+
+  "Gold_Rush_Hit": "確認申請後，您的土地和預付的RING將會被鎖定，在報名結束前，仍可以修改放置的土地，修改投入RING的數量，修改領取地址，但仍然需要支付相應的手續費。",
+
+  "Activity Starts": "活動開始",
+  "Bidding Finished": "報名結束",
+  "Result Published": "結果公布",
+  "Event End": "淘金結束",
+
+  "Reserve": "準備金",
+  "Receive": "接收地址",
+  "Receiving address": "接收地址",
+
+  "Application Submitted": "已提交申請",
+  "Address": "地址",
+  "Plot": "地塊",
+  "Total Resources": "總資源",
+
+  "Gold Rush Heroes List": "淘金英雄榜",
+  "Ranking": "排名",
+  "Original Plot": "原地塊",
+  "New Plot": "新地塊",
+  "Player": "玩家",
+
+  "Lands Preview": "地塊預覽",
+  "Choose my plot": "選擇我的地塊",
+  "Plot Number": "地塊編號",
+  "Participate": "參與競標",
+  "Add a bid": "添加競標地塊",
+  "Edit Bid Lot": "編輯競標地塊",
+  "Add parcel": "添加地塊",
+  "Change parcel": "更換地塊",
+  "Confirm the bid": "確認競標",
+  "Confirm the changes": "確認修改",
+  "Cancel the bid": "撤銷競標",
+  "Invalid address": "無效地址",
+  "Invalid land": "無效地塊",
+  "Check the origin": "查看原地塊",
+  "Check the new": "查看新地塊",
+
+  "Pending confirmation": "等待確認中",
+  "Lost": "競標失敗，取回 {{reserve}} {{RING}}",
+  "Lost_And_Claimed": "競標失敗，已取回 {{reserve}} {{RING}}",
+  "Sent/Land Missing": "已发送 / 原地块不存在",
+  "Send source plot": "發送原地塊",
+
+  "Reserve_Too_Small": "準備金小於最小值（1{{RING}}）"
+}

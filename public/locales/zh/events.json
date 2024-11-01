@@ -1,0 +1,10 @@
+{
+  "Jackpot": "獎池",
+  "Your Points":"你的積分",
+  "Win up to 100,000 Token with 10 points":"10 積分搶 100,000 {{token}}",
+  "Win up to 1,000,000 Token with 100 points":"100 積分搶 1,000,000 {{token}}",
+  "Congratulations on winning token": "恭喜您獲得了 {{amount}} {{symbol}}",
+  "Unfortunately... you win nothing": "很遺憾，您沒有中獎",
+
+  "Congratulations, you won the lottery": "恭喜您中獎了"
+}

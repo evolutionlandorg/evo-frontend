@@ -1,0 +1,40 @@
+{
+  "Manage": "Manage",
+  "Price": "Price",
+  "Introduction": "Introduction",
+
+  "Buy Chest": "Buy Chest",
+  "Stop Work": "Stop Work",
+  "Grab": "Grab",
+  "Claim Resources": "Claim Resources",
+  "Open Chest": "Open Chest",
+
+  "Mined Resources": "Mined Resources",
+
+  "category_All": "All",
+  "category_Idle": "Idle",
+  "category_Working": "Working",
+
+  "My Drill List": "My Drill List",
+  "My Chest": "My Chest",
+
+  "Stone Drill": "Stone Drill",
+  "Iron Drill": "Iron Drill",
+  "Steel Drill": "Steel Drill",
+  "Diamond Drill": "Diamond Drill",
+  "Manual Iron Rig": "Iron Drill",
+  "Manual Steel Rig": "Steel Drill",
+  "Manual Diamond Rig": "Diamond Drill",
+  "Gas Iron Rig": "Iron Drill",
+  "Gas Steel Rig": "Steel Drill",
+  "Gas Diamond Rig": "Diamond Drill",
+
+  "Mining Efficiency": "Mining Efficiency",
+  "Element Efficiency": "Mining Efficiency",
+  "Initial Protection": "Initial Protection",
+  "Initial_Protection_day(s)": "day(s)",
+
+  "This drill's class/level is Not higher target one, couldn't grab!": "This drill's class/level is Not higher target one, couldn't grab!",
+
+  "A Drill can be set on the prop slot of a piece of land and used for mining a single resource. Unlike Apostles, Drills cannot obtain resources by themselves; they rely on Apostles who then obtain a bonus income.": "A Drill can be set on the prop slot of a piece of land and used for mining a single resource. Unlike Apostles, Drills cannot obtain resources by themselves; they rely on Apostles who then obtain a bonus income."
+}

@@ -1,0 +1,32 @@
+{
+  "Junior Monster Bone": {
+    "name": "初級怪物之骨",
+    "description": "用於打造裝備的怪物之骨"
+  },
+  "Intermediate Monster Bone": {
+    "name": "中級怪物之骨",
+    "description": "用於打造裝備的怪物之骨"
+  },
+  "Senior Monster Bone": {
+    "name": "高級怪物之骨",
+    "description": "用於打造裝備的怪物之骨"
+  },
+
+  "Junior Monster Spirit": {
+    "name": "初級怪物之靈",
+    "description": "用於打造裝備的怪物之靈"
+  },
+  "Intermediate Monster Spirit": {
+    "name": "中級怪物之靈",
+    "description": "用於打造裝備的怪物之靈"
+  },
+  "Senior Monster Spirit": {
+    "name": "高級怪物之靈",
+    "description": "用於打造裝備的怪物之靈"
+  },
+
+  "Normal": "普通",
+  "Rare": "稀有",
+  "Forge": "合成",
+  "Transfer Material": "赠送材料"
+}

@@ -1,0 +1,11 @@
+{ 
+  "Risk Warning": "風險提示",
+  "Risk Warning_Content": "1.市場風險：進化星球資産價格受上下遊多種因素影響。<br/>2.不可抗力風險：不可抗力指交易雙方不能合理控製，預見，或即使預見也無法避免的事件，包括但不限於地震，颱風，戰爭，政策因素。",
+  "Disclaimer": "免責提示",
+  "Disclaimer_Content": "1.用戶應自行承擔資産價格變化帶來的收益與損失，進化星球不承諾任何形式的收益。<br/>2.進化星球冇有義務對接入或合作的第三方DAPP履行盡職調查義務，使用第三方DAPP時您應當謹慎評估，進化星球強烈建議您仔細閱讀第三方相關的用戶協議。<br/>3.進化星球方不提供或控製元素資産池協議，其是由第三方（包括但不限於Uniswap、Mdex、Quickswap、Snowswap）智能合約控製並部署在區塊鏈網絡上的，並且完全是由社區驅動管理的。",
+  "User Commitment": "用戶承諾書",
+  "User Commitment_Content": "1.本人遵守所在地的法律法規，不會使用進化星球從事任何違法犯罪活動。<br/>2.本人參與進化星球所使用的資産合規合法。<br/>3.本人承諾自行承擔進化星球的投資風險。",
+  "Accept Agreement": "點擊確認即錶明悉知進化星球風險提示、免責提示並遵守用戶承諾書",
+  "Crab XRING_XWRING_Content": "In Evolution Land marketplace will no longer support xRING transactions. Please delist assets sold with xRING and relist with xWRING. Please look for other lands/apostles.",
+  "Important": "Important"
+}

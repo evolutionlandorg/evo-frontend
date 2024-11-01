@@ -1,0 +1,70 @@
+{
+  "Manage": "管理",
+  "Introduction": "簡介",
+  "Attributes": "屬性",
+  "Auction": "拍賣",
+  "Auction History": "拍賣歷史",
+  "Resources": "元素",
+  "Mined Resources": "已挖掘元素",
+  "Apostle WorkSpace": "使徒工作臺",
+  "Drills WorkSpace": "鉆頭工作臺",
+  "Invite Friends": "邀請朋友",
+  "History": "交易歷史",
+
+  "Type": "類型",
+  "Location": "坐標",
+  "Owner": "所有權",
+  "Mystical": "神秘地",
+  "Normal": "普通地",
+  "Reserved": "保留地",
+  "Continent": "大陸",
+
+  "Sell": "出售",
+  "Gift": "贈送",
+  "Cancel Sell": "取消售賣",
+  "Claim": "領取",
+
+  "category_Mine": "我的地塊",
+  "category_Bid": "出價",
+  "category_On Sale": "售賣中",
+  "category_Unclaimed": "未領取",
+  "category_First Sale": "首售",
+  "category_Resale": "轉售",
+
+  "Price": "價格",
+  "Token Index": "編號",
+
+  "Sell Land": "地塊出售",
+  "Transfer Land": "地塊贈送",
+
+  "filter_Type": "土地類型",
+  "filter_Resources": "元素類型",
+  "filter_Price": "價格",
+
+  "Buy Land": "購買地塊",
+
+  "Save land information success !": "地塊信息保存成功！",
+  "Enter a valid URL !": "需輸入有效的鏈接！",
+  "Bio requires less than 250 characters !":"介紹文字數量需要小於250字符！",
+  "Bio": "介紹",
+  "Link": "鏈接",
+  "Save": "保存",
+  "Cancel": "取消",
+  "Edit": "編輯",
+  "Delete": "刪除",
+  "Preview": "預覽",
+  "Infomation": "信息",
+  "You can only upload JPG/PNG file !": "隻能上傳 JPG/PNG 文件 !",
+  "Image must smaller than 500kb !":"圖片大小必須小於 500kb !",
+
+  "landtype_First Sale": "首次售賣",
+  "landtype_Reserved": "保留地",
+  "landtype_Unowned": "無主",
+  "landtype_Owned": "有主",
+  "landtype_Mine": "我的",
+  "landtype_Resale": "拍賣中",
+  "landtype_Mysterious": "神秘地塊",
+
+  "xring_to_xwring_tip_land": "In Evolution Land marketplace will no longer support xRING transactions. Please delist assets sold with xRING and relist with xWRING. Please look for other lands.",
+  "xring_to_xwring_tip_apostle": "In Evolution Land marketplace will no longer support xRING transactions. Please delist assets sold with xRING and relist with xWRING. Please look for other apostles."
+}

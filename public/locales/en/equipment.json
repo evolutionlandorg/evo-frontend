@@ -1,0 +1,53 @@
+{
+  "Sword": "Sword",
+  "Shield": "Shield",
+  "Quality": "Quality",
+
+  "Wood Sword": "Wood Sword",
+  "Steel Sword": "Steel Sword",
+  "Aurora Sword": "Aurora Sword",
+
+  "Wood Sword +1": "Wood Sword +1",
+  "Steel Sword +1": "Steel Sword +1",
+  "Aurora Sword +1": "Aurora Sword +1",
+
+  "Wood Sword +2": "Wood Sword +2",
+  "Steel Sword +2": "Steel Sword +2",
+  "Aurora Sword +2": "Aurora Sword +2",
+
+  "Wood Shield": "Wood Shield",
+  "Steel Shield": "Steel Shield",
+  "Aurora Shield": "Aurora Shield",
+
+  "Wood Shield +1": "Wood Shield +1",
+  "Steel Shield +1": "Steel Shield +1",
+  "Aurora Shield +1": "Aurora Shield +1",
+
+  "Wood Shield +2": "Wood Shield +2",
+  "Steel Shield +2": "Steel Shield +2",
+  "Aurora Shield +2": "Aurora Shield +2",
+
+  "GOLD": "GOLD",
+  "WOOD": "WOOD",
+  "WATER": "WATER",
+  "FIRE": "FIRE",
+  "SOIL": "SOIL",
+
+  "ATK": "ATK",
+  "DEF": "DEF",
+
+  "Operation": "Operation",
+  "Gift": "Gift",
+  "Upgrade": "Upgrade",
+  "Dismantle": "Dismantle",
+  "User": "User",
+  "Unequip": "Unequip",
+  "Ability": "Ability",
+
+  "Transfer Equipment": "Transfer Equipment",
+
+  "Furnace": "Furnace",
+
+  "Please stop working before unequipping": "Please stop working before unequipping",
+  "Please unequip in ASSET first": "Please unequip in ASSET first"
+}

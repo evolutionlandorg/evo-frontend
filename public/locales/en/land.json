@@ -1,0 +1,69 @@
+{
+  "Manage": "Manage",
+  "Introduction": "Introduction",
+  "Attributes": "Attributes",
+  "Auction": "Auction",
+  "Auction History": "Auction History",
+  "Resources": "Resources",
+  "Mined Resources": "Mined Resources",
+  "Apostle WorkSpace": "Apostle WorkSpace",
+  "Drills WorkSpace": "Drills WorkSpace",
+  "Invite Friends": "Invite Friends",
+  "History": "History",
+
+  "Type": "Type",
+  "Location": "Location",
+  "Owner": "Owner",
+  "Mystical": "Mystical",
+  "Normal": "Normal",
+  "Continent": "Continent",
+
+  "Sell": "Sell",
+  "Gift": "Gift",
+  "Cancel Sell": "Cancel Sell",
+  "Claim": "Claim",
+
+  "category_Mine":"Mine",
+  "category_Bid": "Bid",
+  "category_On Sale": "On Sale",
+  "category_Unclaimed": "Unclaimed",
+  "category_First Sale": "First Sale",
+  "category_Resale": "Resale",
+
+  "Price": "Price",
+  "Token Index": "Token Index",
+
+  "Sell Land": "Sell Land",
+  "Transfer Land": "Transfer Land",
+
+  "filter_Type": "Type",
+  "filter_Resources": "Resources",
+  "filter_Price": "Price",
+
+  "Buy Land": "Buy Land",
+
+  "Save land information success !": "Save land information success !",
+  "Enter a valid URL !": "Enter a valid URL !",
+  "Bio requires less than 250 characters !":"Bio requires less than 250 characters !",
+  "Bio": "Bio",
+  "Link": "Link",
+  "Save": "Save",
+  "Cancel": "Cancel",
+  "Edit": "Edit",
+  "Delete": "Delete",
+  "Preview": "Preview",
+  "Infomation": "Infomation",
+  "You can only upload JPG/PNG file !": "You can only upload JPG/PNG file !",
+  "Image must smaller than 500kb !":"Image must smaller than 500kb !",
+
+  "landtype_First Sale": "First Sale",
+  "landtype_Reserved": "Reserved",
+  "landtype_Unowned": "Unowned",
+  "landtype_Owned": "Owned",
+  "landtype_Mine": "Mine",
+  "landtype_Resale": "On Sale",
+  "landtype_Mysterious": "Mysterious",
+
+  "xring_to_xwring_tip_land": "In Evolution Land marketplace will no longer support xRING transactions. Please delist assets sold with xRING and relist with xWRING. Please look for other lands.",
+  "xring_to_xwring_tip_apostle": "In Evolution Land marketplace will no longer support xRING transactions. Please delist assets sold with xRING and relist with xWRING. Please look for other apostles."
+}

@@ -1,0 +1,64 @@
+.base {
+  failure:  #ED4B9E ;
+  primary:  #00C2FF ;
+  primaryBright:  #53DEE9 ;
+  primaryDark:  #0098A1 ;
+  secondary:  #7645D9 ;
+  success:  #31D0AA ;
+  warning:  #FFB237 ;
+}
+
+.dark {
+  background:  #121826 ;
+  backgroundDisabled:  #E9EAEB ;
+  backgroundAlt:  #383C3F ;
+  backgroundFocus:  #232C31 ;
+
+  backgroundContent:  #232C31 ;
+  cardBorder:  #E7E3EB ;
+
+  tertiary:  #353547 ;
+
+  text:  #F4EEFF ;
+  textDisabled:  #666171 ;
+  textSubtle:  #9DA3AE ;
+  disabled:  #524B63 ;
+  overlay:  #CCCCCC ;
+  input:  #372F47 ;
+  inputSecondary:  #262130 ;
+
+  contrast:  #FFFFFF ;
+  dropdown:  #1E1D20 ;
+  dropdownDeep:  #100C18 ;
+  invertedContrast:  #191326 ;
+
+  backgroundRING:  linear-gradient(315deg,#FF0050 0%,#7000FF 71.44%,#0E00FF 100%); ;
+  backgroundKTON:  linear-gradient(90deg,#00AF4E 0%,#00DC44 100%);
+}
+
+.light {
+  background:  #d4d4d4  ;
+  backgroundDisabled:  #E9EAEB  ;
+  backgroundAlt:  #676e67  ;
+  backgroundFocus:  #232C31  ;
+  backgroundContent:  #232C31  ;
+  cardBorder:  #E7E3EB  ;
+
+  tertiary:  #EFF4F5  ;
+
+  text:  #ffffff  ;
+  textDisabled:  #BDC2C4  ;
+  textSubtle:  #7A6EAA  ;
+  disabled:  #E9EAEB  ;
+  overlay:  #CCCCCC  ;
+  input:  #eeeaf4  ;
+  inputSecondary:  #d7caec  ;
+
+  contrast:  #191326  ;
+  dropdown:  #F6F6F6  ;
+  dropdownDeep:  #EEEEEE  ;
+  invertedContrast:  #FFFFFF  ;
+
+  backgroundRING:  linear-gradient(315deg,#FF0050 0%,#7000FF 71.44%,#0E00FF 100%); ;
+  backgroundKTON:  linear-gradient(90deg,#00AF4E 0%,#00DC44 100%);
+}

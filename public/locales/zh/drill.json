@@ -1,0 +1,39 @@
+{
+  "Manage": "管理",
+  "Price": "價格",
+  "Introduction": "簡介",
+
+  "Buy Chest": "購買寶箱",
+  "Stop Work": "停止工作",
+  "Grab": "搶佔",
+  "Claim Resources": "領取元素",
+  "Open Chest": "開啟寶箱",
+
+  "Mined Resources": "已挖掘元素",
+
+  "category_All": "全部",
+  "category_Idle": "閑置",
+  "category_Working": "工作中",
+
+  "My Drill List": "我的鉆頭",
+  "My Chest": "我的寶箱",
+
+  "Stone Drill": "石頭鉆頭",
+  "Iron Drill": "鑄鐵鉆頭",
+  "Steel Drill": "鎳鋼鉆頭",
+  "Diamond Drill": "金鋼鉆頭",
+  "Manual Iron Rig": "鑄鐵鉆頭",
+  "Manual Steel Rig": "鎳鋼鉆頭",
+  "Manual Diamond Rig": "金鋼鉆頭",
+  "Gas Iron Rig": "金鋼鉆頭",
+  "Gas Steel Rig": "鎳鋼鉆頭",
+  "Gas Diamond Rig": "金鋼鉆頭",
+
+  "Mining Efficiency": "挖礦效率",
+  "Element Efficiency": "元素效率",
+  "Initial Protection": "初始保護期",
+  "Initial_Protection_day(s)": "天",
+
+  "This drill's class/level is Not higher target one, couldn't grab!": "該鉆頭的等級/等階不大於目標鉆頭，無法搶佔！",
+  "A Drill can be set on the prop slot of a piece of land and used for mining a single resource. Unlike Apostles, Drills cannot obtain resources by themselves; they rely on Apostles who then obtain a bonus income.": "鑽頭可以放置在地塊的道具欄中，選擇一種元素進行挖掘，與使徒不同的是，鑽頭並不能自己獲得元素，需要依賴地塊上正在工作的使徒，以使徒獲得元素的收益為基數，獲得加成部分的收益。"
+}

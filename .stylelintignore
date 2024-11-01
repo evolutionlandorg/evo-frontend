@@ -1,0 +1,6 @@
+**/*.js?(x)
+**/*.ts
+**/_*.css
+**/_*.scss
+build/**/*.css
+build/**/*.scss

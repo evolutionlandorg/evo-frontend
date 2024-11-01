@@ -1,0 +1,18 @@
+{
+  "Interstellar Council": "Interstellar Council",
+  "Atlantis Council": "Atlantis Council",
+  "Byzantine Council": "Byzantine Council",
+  "Columbus Council": "Columbus Council",
+  "Dawning Council": "Dawning Council",
+  "Eden Council": "Eden Council",
+
+  "Function": "Function",
+  "Proposal": "Proposal",
+  "Voting Power": "Voting Power",
+  "KTON Stake": "KTON Stake",
+
+  "Function_Description": "Interstellar Council\r\nRights:\r\n1. Determine the basic and parameters functions of all councils\r\n2. Decide the features that concerns all continents\r\n3. Acting on the continent without council\r\nVoting Power:\r\nEvolution Land assets on all continents.\r\n\r\nState Council\r\nRights:\r\nDecide parameters of its continent\r\nDecide the distribution of contribution pool\r\nVoting Power:\r\nEvolution Land assets on certain continent.",
+  "Proposal_Description": "Steps to submit proposal:\r\nDiscuss on <reddit>https://www.reddit.com/r/EvolutionLand/</reddit>\r\nSubmit proposal on appropriate council\r\nProposal period should be no less than 7 days\r\n\r\nGrant application:\r\n\r\n<grant>https://www.reddit.com/r/EvolutionLand/comments/unpa5j/evolution_land_grant/</grant>",
+  "Voting_Power_Description": "Land: 100 VP\r\nApostle: 1 VP\r\nKTON: 1 VP\r\nResource: Holding 20 resource token add 1 VP",
+  "KTON_Stake_Description": "After proposal Canceling the staking in governance. We no longer provide KTON staking benefit.\r\nIf you haven’t withdraw your KTON could go to <staking>https://gov.evolution.land/#/land/1/staking</staking> or <dao>https://gov.evolution.land/#/land/5/dao</dao> to take KTON back"
+}

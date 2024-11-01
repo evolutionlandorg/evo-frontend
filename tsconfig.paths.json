@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    // "paths": {
+    //   "@evo/*": ["*"],
+    //   "@evo/public": ["public"],
+    //   "@evo/public/*": ["public/*"],
+    //   "@evo/api": ["src/api"],
+    //   "@evo/api/*": ["src/api/*"],
+    //   "@evo/components": ["src/components"],
+    //   "@evo/components/*": ["src/components/*"],
+    //   "@evo/config": ["src/config"],
+    //   "@evo/config/*": ["src/config/*"],
+    //   "@evo/hooks": ["src/hooks"],
+    //   "@evo/hooks/*": ["src/hooks/*"],
+    //   "@evo/locales": ["src/locales"],
+    //   "@evo/locales/*": ["src/locales/*"],
+    //   "@evo/pages": ["src/pages"],
+    //   "@evo/pages/*": ["src/pages/*"],
+    //   "@evo/store": ["src/store"],
+    //   "@evo/store/*": ["src/store/*"],
+    //   "@evo/style": ["src/style"],
+    //   "@evo/style/*": ["src/style/*"],
+    //   "@evo/utils": ["src/utils"],
+    //   "@evo/utils/*": ["src/utils/*"],
+    //   "@evo/ui": ["src/ui"],
+    //   "@evo/ui/*": ["src/ui/*"],
+    // }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Junior Monster Bone": {
+    "name": "Junior Monster Bone",
+    "description": "The bones of Monster could be used to forge equipment"
+  },
+  "Intermediate Monster Bone": {
+    "name": "Intermediate Monster Bone",
+    "description": "The bones of Monster could be used to forge equipment"
+  },
+  "Senior Monster Bone": {
+    "name": "Senior Monster Bone",
+    "description": "The bones of Monster could be used to forge equipment"
+  },
+
+  "Junior Monster Spirit": {
+    "name": "Junior Monster Spirit",
+    "description": "The spirit of Monster could be used to forge equipment"
+  },
+  "Intermediate Monster Spirit": {
+    "name": "Intermediate Monster Spirit",
+    "description": "The spirit of Monster could be used to forge equipment"
+  },
+  "Senior Monster Spirit": {
+    "name": "Senior Monster Spirit",
+    "description": "The spirit of Monster could be used to forge equipment"
+  },
+
+  "Normal": "Normal",
+  "Rare": "Rare",
+  "Forge": "Forge",
+  "Transfer Material": "Transfer Material"
+}

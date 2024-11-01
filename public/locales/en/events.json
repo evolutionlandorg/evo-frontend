@@ -1,0 +1,10 @@
+{
+  "Jackpot": "Jackpot",
+  "Your Points":"Your Points",
+  "Win up to 100,000 Token with 10 points":"Win up to 100,000 {{token}} with 10 points",
+  "Win up to 1,000,000 Token with 100 points":"Win up to 1,000,000 {{token}} with 100 points",
+  "Congratulations on winning token": "Congratulations on winning {{amount}} {{symbol}}",
+  "Unfortunately... you win nothing": "Unfortunately... you win nothing",
+
+  "Congratulations, you won the lottery": "Congratulations, you won the lottery"
+}

@@ -1,0 +1,5 @@
+{
+  "Hello": "你好",
+  "Hey {{name}}": "嘿 {{name}}",
+  "View on Explorer": "在瀏覽器查看"
+}

@@ -1,0 +1,16 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-config-sass-guidelines"],
+  "rules": {
+    "value-keyword-case": null,
+    "selector-class-pattern": null,
+    "no-descending-specificity": null,
+    "function-name-case": null,
+    "no-empty-source": null,
+    "scss/selector-no-redundant-nesting-selector": null,
+    "selector-no-qualifying-type": [
+      true, {
+        "ignore": ["attribute"]
+      }
+    ]
+  }
+}

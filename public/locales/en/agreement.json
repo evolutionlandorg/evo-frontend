@@ -1,0 +1,11 @@
+{ 
+  "Risk Warning": "Risk Warning",
+  "Risk Warning_Content": "1. Market risk: The asset price of Evolution Land is affected by a variety of upstream and downstream factors.<br/>2. Force majeure risk: Force majeure refers to events that cannot be reasonably controlled, foreseen, or unavoidable even if foreseen by both parties, including but not limited to earthquakes, typhoons, wars, and policy factors.",
+  "Disclaimer": "Disclaimer",
+  "Disclaimer_Content": "1. Users are solely responsible for any and all gains and losses caused by changes in asset prices. Evolution Land does not guarantee any form of profit.<br/>2. It is the responsibility of Users to perform due diligence on third-party DAPPs accessible through or cooperating with the Evolution Land. Users should evaluate and consider the use of third-party DAPPs carefully, and Evolution Land strongly recommends Users read and understand all relevant third-party user agreements.<br/>3. We do not provide or control the Evolution Land resource asset protocols, which are managed by smart contracts deployed on various blockchains by third parties (ie: Uniswap, Mdex, Quickswap, Snowswap). These protocols are community-driven and managed by their native token holders.",
+  "User Commitment": "User Commitment Agreement",
+  "User Commitment_Content": "1. I agree to abide by all local laws and regulations, and will not use the Evolution Land to engage in any illegal or criminal activities.<br/>2. The assets I use to participate in the Evolution Land are compliant and legal.<br/>3. I agree to undertake the investment risk of Evolution Land completely on my own.<br/>",
+  "Accept Agreement": "Clicking confirm signifies you understand and agree to the terms and conditions of the Evolution Land Risk Warning, Disclaimer, and User Commitment Agreement.",
+  "Crab XRING_XWRING_Content": "In Evolution Land marketplace will no longer support xRING transactions. Please delist assets sold with xRING and relist with xWRING. Please look for other lands/apostles.",
+  "Important": "Important"
+}
