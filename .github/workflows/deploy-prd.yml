@@ -24,7 +24,7 @@ jobs:
         id: smart-vercel
         with:
           node_version: "14"
-          script_install: "yarn config set strict-ssl false && yarn install"
+          script_install: "yarn install"
           vercel_token: ${{ secrets.VERCEL_TOKEN }}
           vercel_group: itering
           preview_output: true
