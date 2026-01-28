@@ -46,7 +46,6 @@ const Index: React.FC<BareProps> = ({ className }) => {
       <StyledLandsBox>
         <ContinentItem isActive={isLandActive('1')} landId='1' />
         <ContinentItem isActive={isLandActive('2')} landId='2' />
-        <ContinentItem isActive={isLandActive('3')} landId='3' />
         <ContinentItem isActive={isLandActive('4')} landId='4' />
         <ContinentItem isActive={isLandActive('5')} landId='5' />
       </StyledLandsBox>
