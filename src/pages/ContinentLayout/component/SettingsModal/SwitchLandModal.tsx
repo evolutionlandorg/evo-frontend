@@ -41,10 +41,6 @@ const SwitchLandModal: React.FC<Props> = ({ onDismiss = () => null }) => {
               {env[2].NAME} ({env[2].RPC_INFO.chainName})
             </Button>
 
-            <Button as='a' variant='secondary' scale='sm' href='/land/3/my/token'>
-              {env[3].NAME} ({env[3].RPC_INFO.chainName})
-            </Button>
-
             <Button as='a' variant='secondary' scale='sm' href='/land/4/my/token'>
               {env[4].NAME} ({env[4].RPC_INFO.chainName})
             </Button>

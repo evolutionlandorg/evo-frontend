@@ -3,7 +3,7 @@
 
 export type SUPPORTED_LANDS_TYPE = '1' | '2' | '3' | '4' | '5';
 
-export const SUPPORTED_LANDS: SUPPORTED_LANDS_TYPE[] = ['1', '2', '3', '4', '5'];
+export const SUPPORTED_LANDS: SUPPORTED_LANDS_TYPE[] = ['1', '2', '4', '5'];
 
 export const SUPPORTED_LANDS_FOR_ROUTER = SUPPORTED_LANDS.join('|');
 
